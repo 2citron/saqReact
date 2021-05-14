@@ -1,0 +1,8 @@
+.dashboardTable{
+    width: 100%;
+    
+}
+
+.dashboardTable td {
+    vertical-align: top;
+  }
